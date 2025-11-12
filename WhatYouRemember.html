@@ -120,12 +120,12 @@ Somewhere in the distance a child cries.]
 (set:$stress to $stress -1)
 (if:$stress&lt;0)[(set:$stress to 0)]
 
-(text-style:&quot;subscript&quot;)[//You focus on the melody. 
+(text-style:&quot;subscript&quot;)[(align:&quot;=&gt;&lt;=&quot;)[//You focus on the melody. 
 You&#39;ve always loved this song.
 The suoind steadies you for amoment.
 You hear the robber&#39;s voice in your head.
-//]
-[[Who was that?-&gt; Recall1]]</tw-passagedata><tw-passagedata pid="13" name="CalmRecall" tags="" position="1100,1025" size="100,100">(set:$stress to $stress-1)
+//]]
+(text-colour:#9775fa)[(align:&quot;=&gt;&lt;=&quot;)[[[Who was that?-&gt; Recall1]]]]</tw-passagedata><tw-passagedata pid="13" name="CalmRecall" tags="" position="1100,1025" size="100,100">(set:$stress to $stress-1)
 (if:$stress &lt; 0)[(set:$stress to 0)]
 
 =&gt;&lt;=
@@ -157,22 +157,23 @@ She was real.] //]
 (text-colour:#9775fa)[(align:&quot;=&gt;&lt;=&quot;)[[[You know she was.-&gt;Final Recall]]]]</tw-passagedata><tw-passagedata pid="16" name="Final Recall" tags="" position="1225,1275" size="100,100">(set:$stress to $stress +1)
 
 (if:$stress &gt;4)[
-//(align:&quot;=&gt;&lt;=&quot;)[(text-style:&quot;subscript&quot;)[The park dissolves before you. 
+(text-style:&quot;subscript&quot;)[(align:&quot;=&gt;&lt;=&quot;)[//The park dissolves before you. 
 The band is gone. Muted, distorted music left behind.
 Your friend&#39;s laughter becomnes the robber&#39;s shout. 
 You see the knife flash again. 
 It&#39;s in your hand. 
 You blink.
 
-The world is quiet.]] //
-]
+The world is quiet//]].]
+
+
 
 (else-if:$stress is 4)[
-//(align:&quot;=&gt;&lt;=&quot;)[(text-style:&quot;subscript&quot;)[The world flickers. Half-memory, Half-imagined. 
+(text-style:&quot;subscript&quot;)[(align:&quot;=&gt;&lt;=&quot;)[//The world flickers. Half-memory, Half-imagined. 
 Details are still there, yet shifted.
-You don&#39;t know what&#39;s true.]
-]
-(text-style:&quot;subscript&quot;)[You can live with that].//]
+You don&#39;t know what&#39;s true.
+You can live with that//.]]]
+
 
 (else:)[
 (align:&quot;=&gt;&lt;=&quot;)[//(text-style:&quot;subscript&quot;)[The park remains, still and calm. 
