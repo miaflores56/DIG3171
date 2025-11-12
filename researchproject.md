@@ -9,7 +9,7 @@ title: Research Project
 
 # Abstract
 
-<p>Imagine you are on a walk with a friend. It is a nice day, other people are on this walk,
+<p>  Imagine you are on a walk with a friend. It is a nice day, other people are on this walk,
 there is a band on the side playing songs for money, and you and your friend are chatting about
 work. While on this walk, a masked robber approaches you, threatens you and makes off with
 your wallet. Do you think you would remember what song the band was playing? The color of
@@ -31,7 +31,6 @@ event and demonstrate how emotions affect memory</p>
 
 # Works Cited
 
-(add HTML code to do the hanging indentation, as seen below)
 
 <style>
   .works-cited {
