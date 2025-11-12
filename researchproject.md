@@ -4,12 +4,12 @@ title: Research Project
 ---  
 
 <h1><a href="/DIG3171/WhatYouRemember.html">What You Remember</a></h1>  
-<p>  Click above to check out my research project What You Remember! What You Remember is a Twine digital narrative about the effects of enotion and stress on memory in crucial moments, following the story of someone who gets robbed on a walk, and desperately tries to determine what happened. </p>
+  <p>Click above to check out my research project What You Remember! What You Remember is a Twine digital narrative about the effects of enotion and stress on memory in crucial moments, following the story of someone who gets robbed on a walk, and desperately tries to determine what happened. </p>
 
 
 # Abstract
 
-<p>  Imagine you are on a walk with a friend. It is a nice day, other people are on this walk,
+  <p>Imagine you are on a walk with a friend. It is a nice day, other people are on this walk,
 there is a band on the side playing songs for money, and you and your friend are chatting about
 work. While on this walk, a masked robber approaches you, threatens you and makes off with
 your wallet. Do you think you would remember what song the band was playing? The color of
