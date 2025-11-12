@@ -4,7 +4,7 @@ title: Research Project
 ---  
 
 <h1><a href="/DIG3171/WhatYouRemember.html">What You Remember</a></h1>  
-<p>Click above to check out my research project What You Remember! What You Remember is a Twine digital narrative about the effects of enotion and stress on memory in crucial moments, following the story of someone who gets robbed on a walk, and desperately tries to determine what happened. </p>
+<p>  Click above to check out my research project What You Remember! What You Remember is a Twine digital narrative about the effects of enotion and stress on memory in crucial moments, following the story of someone who gets robbed on a walk, and desperately tries to determine what happened. </p>
 
 
 # Abstract
@@ -27,7 +27,7 @@ pressure, causing functions like memory to be halted or slowed due to the stress
 of negative emotions heavily reducing memory performance (Guo). With this project, I wish to
 truly show how emotion can either enhance or impair long term memory retention ( To conclude,
 the digital narrative I will be making with the digital tool Twine, will guide users through an
-event and demonstrate how emotions affect memory</p>
+event and demonstrate how emotions affect memory.</p>
 
 # Works Cited
 
